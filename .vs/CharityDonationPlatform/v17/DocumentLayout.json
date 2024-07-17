@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|d:\\materijali\\integrirani sistemi\\proektcharity\\charitydonationplatform\\charityplatform.web\\views\\campaigns\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|solutionrelative:charityplatform.web\\views\\campaigns\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|d:\\materijali\\integrirani sistemi\\proektcharity\\charitydonationplatform\\charityplatform.web\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|solutionrelative:charityplatform.web\\views\\donations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605EDC9A-9A28-4D67-9291-DF51B3835538}|CharityPlatform.Repository\\CharityPlatform.Repository.csproj|d:\\materijali\\integrirani sistemi\\proektcharity\\charitydonationplatform\\charityplatform.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605EDC9A-9A28-4D67-9291-DF51B3835538}|CharityPlatform.Repository\\CharityPlatform.Repository.csproj|solutionrelative:charityplatform.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|d:\\materijali\\integrirani sistemi\\proektcharity\\charitydonationplatform\\charityplatform.web\\controllers\\campaignscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|solutionrelative:charityplatform.web\\controllers\\campaignscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43951CA9-FA06-40DC-B2D7-4B7689C57D1C}|CharityPlatform.Domain\\CharityPlatform.Domain.csproj|d:\\materijali\\integrirani sistemi\\proektcharity\\charitydonationplatform\\charityplatform.domain\\domain\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43951CA9-FA06-40DC-B2D7-4B7689C57D1C}|CharityPlatform.Domain\\CharityPlatform.Domain.csproj|solutionrelative:charityplatform.domain\\domain\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|d:\\materijali\\integrirani sistemi\\proektcharity\\charitydonationplatform\\charityplatform.web\\views\\campaigns\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D87D6CF6-B6C3-47E8-ADAA-72A0165EDEE6}|CharityPlatform.Web\\CharityPlatform.Web.csproj|solutionrelative:charityplatform.web\\views\\campaigns\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43951CA9-FA06-40DC-B2D7-4B7689C57D1C}|CharityPlatform.Domain\\CharityPlatform.Domain.csproj|d:\\materijali\\integrirani sistemi\\proektcharity\\charitydonationplatform\\charityplatform.domain\\identity\\donator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43951CA9-FA06-40DC-B2D7-4B7689C57D1C}|CharityPlatform.Domain\\CharityPlatform.Domain.csproj|solutionrelative:charityplatform.domain\\identity\\donator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Views\\Campaigns\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CharityPlatform.Web\\Views\\Campaigns\\Edit.cshtml",
+              "ToolTip": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Views\\Campaigns\\Edit.cshtml",
+              "RelativeToolTip": "CharityPlatform.Web\\Views\\Campaigns\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:14:13.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Views\\Donations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CharityPlatform.Web\\Views\\Donations\\Edit.cshtml",
+              "ToolTip": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Views\\Donations\\Edit.cshtml",
+              "RelativeToolTip": "CharityPlatform.Web\\Views\\Donations\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:13:42.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "CharityPlatform.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "CharityPlatform.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:10:34.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CampaignsController.cs",
+              "DocumentMoniker": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Controllers\\CampaignsController.cs",
+              "RelativeDocumentMoniker": "CharityPlatform.Web\\Controllers\\CampaignsController.cs",
+              "ToolTip": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Controllers\\CampaignsController.cs",
+              "RelativeToolTip": "CharityPlatform.Web\\Controllers\\CampaignsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:08:20.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Views\\Campaigns\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityPlatform.Web\\Views\\Campaigns\\Index.cshtml",
+              "ToolTip": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\Views\\Campaigns\\Index.cshtml",
+              "RelativeToolTip": "CharityPlatform.Web\\Views\\Campaigns\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T16:07:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Campaign.cs",
+              "DocumentMoniker": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\Domain\\Campaign.cs",
+              "RelativeDocumentMoniker": "CharityPlatform.Domain\\Domain\\Campaign.cs",
+              "ToolTip": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\Domain\\Campaign.cs",
+              "RelativeToolTip": "CharityPlatform.Domain\\Domain\\Campaign.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T16:01:37.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Donator.cs",
+              "DocumentMoniker": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\Identity\\Donator.cs",
+              "RelativeDocumentMoniker": "CharityPlatform.Domain\\Identity\\Donator.cs",
+              "ToolTip": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\Identity\\Donator.cs",
+              "RelativeToolTip": "CharityPlatform.Domain\\Identity\\Donator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:56:36.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

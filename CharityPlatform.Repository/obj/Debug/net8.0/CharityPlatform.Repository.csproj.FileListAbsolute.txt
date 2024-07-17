@@ -1,0 +1,15 @@
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Repository.deps.json
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Repository.dll
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Repository.pdb
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Domain.dll
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Domain.pdb
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.csproj.AssemblyReference.cache
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.AssemblyInfoInputs.cache
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.AssemblyInfo.cs
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.csproj.CoreCompileInputs.cache
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityP.C9ED6AF3.Up2Date
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.dll
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\refint\CharityPlatform.Repository.dll
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.pdb
+D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\ref\CharityPlatform.Repository.dll

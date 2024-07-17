@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CharityPlatform.Web.props" />
+</Project>
