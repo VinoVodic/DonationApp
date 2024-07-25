@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharityPlatform.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dc81b1ca5eeff03a14c19bd373787612e5556b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68b61d581b810bbf734707869b0d4e513f02bc78")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharityPlatform.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharityPlatform.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

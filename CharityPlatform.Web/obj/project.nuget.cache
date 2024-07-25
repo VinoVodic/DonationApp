@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/BppmYD+XebCNf09hoTXlqSKCk900VVaasQJlCH15BBeBpfkn3oHTLJRJhLscTOLJET4sZATnPGP9vufffx8jw==",
+  "dgSpecHash": "Ob+Q+K/Qk3NPicCVWqEDAsg0YmuIrBG3zwTSr25GUD+30ICK3apFWI93osnzY4LTYYl2Uruy1/tCduP+GT/eQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Web\\CharityPlatform.Web.csproj",
   "expectedPackageFiles": [
@@ -151,6 +151,7 @@
     "C:\\Users\\Nikola\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\stripe.net\\45.4.0\\stripe.net.45.4.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",

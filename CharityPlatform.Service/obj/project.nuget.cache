@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "53rMz/e44HUH9SES22jXCdZCFawyyHIzY85S7Lr8lP4Lny3/H+I+loijtMkFCYQD6cKsI4ce/9kE8FLOvcg/Sw==",
+  "dgSpecHash": "42TSkEZW4a32yS/fOGFi5KEOve2PiKP8+dH5Cmfp+IuZNmahX5i7OApn4AfukjKP4InStziW4sBs52Y/pHnqaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Service\\CharityPlatform.Service.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,8 @@
     "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\stripe.net\\45.4.0\\stripe.net.45.4.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",

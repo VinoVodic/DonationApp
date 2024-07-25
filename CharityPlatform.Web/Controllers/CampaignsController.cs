@@ -108,9 +108,6 @@ namespace CharityPlatform.Web.Controllers {
             return RedirectToAction(nameof(Index));
         }
 
-
-
-
         public FileContentResult CreateInvoice(Guid id) {
 
             var campaign = _campaignService.GetDetailsForCampaign(id);
@@ -128,12 +125,6 @@ namespace CharityPlatform.Web.Controllers {
 
             StringBuilder sb = new StringBuilder();
             foreach (var item in campaign.Donations) {
-
-                Console.WriteLine("\n\n IMETO");
-                Console.WriteLine(item.Donator.FullName);
-                Console.WriteLine("\n\n Parite");
-                Console.WriteLine(item.Amount);
-
                 sb.AppendLine("Donator: " + item.Donator.FullName + " has donated " + item.Amount);
             }
             document.Content.Replace("{{Donations}}", sb.ToString());

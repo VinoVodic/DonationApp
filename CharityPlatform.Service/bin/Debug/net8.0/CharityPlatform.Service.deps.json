@@ -9,7 +9,8 @@
       "CharityPlatform.Service/1.0.0": {
         "dependencies": {
           "CharityPlatform.Domain": "1.0.0",
-          "CharityPlatform.Repository": "1.0.0"
+          "CharityPlatform.Repository": "1.0.0",
+          "Stripe.net": "45.4.0"
         },
         "runtime": {
           "CharityPlatform.Service.dll": {}
@@ -443,6 +444,26 @@
           }
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Stripe.net/45.4.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Configuration.ConfigurationManager": "6.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "assemblyVersion": "45.4.0.0",
+            "fileVersion": "45.4.0.0"
+          }
+        }
+      },
       "System.Configuration.ConfigurationManager/6.0.1": {
         "dependencies": {
           "System.Security.Cryptography.ProtectedData": "6.0.0",
@@ -619,7 +640,8 @@
       },
       "CharityPlatform.Domain/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
+          "Stripe.net": "45.4.0"
         },
         "runtime": {
           "CharityPlatform.Domain.dll": {}
@@ -629,7 +651,8 @@
         "dependencies": {
           "CharityPlatform.Domain": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4",
+          "Stripe.net": "45.4.0"
         },
         "runtime": {
           "CharityPlatform.Repository.dll": {}
@@ -901,6 +924,20 @@
       "sha512": "sha512-hqTM5628jSsQiv+HGpiq3WKBl2c8v1KZfby2J6Pr7pEPlK9waPdgEO6b8A/+/xn/yZ9ulv8HuqK71ONy2tg67A==",
       "path": "microsoft.win32.systemevents/6.0.0",
       "hashPath": "microsoft.win32.systemevents.6.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Stripe.net/45.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KybqG8DAGw67jGyYcZqEKDT50P9mPh5lbA2ClFu768A79gKmnXc2fwqHW6Ik5x4nvxxF5d82EHBZnPHZTWFuFw==",
+      "path": "stripe.net/45.4.0",
+      "hashPath": "stripe.net.45.4.0.nupkg.sha512"
     },
     "System.Configuration.ConfigurationManager/6.0.1": {
       "type": "package",

@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Stripe.net" Version="45.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\CharityPlatform.Domain\CharityPlatform.Domain.csproj" />
     <ProjectReference Include="..\CharityPlatform.Repository\CharityPlatform.Repository.csproj" />
   </ItemGroup>

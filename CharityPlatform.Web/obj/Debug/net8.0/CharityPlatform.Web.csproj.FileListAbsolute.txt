@@ -602,3 +602,4 @@ C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Web\bin\Debug\
 C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Web\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
 C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Web\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Web\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Web\bin\Debug\net8.0\Stripe.net.dll

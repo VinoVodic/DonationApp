@@ -18,7 +18,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.7",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.3"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.3",
+          "Stripe.net": "45.4.0"
         },
         "runtime": {
           "CharityPlatform.Web.dll": {}
@@ -2014,6 +2015,18 @@
           }
         }
       },
+      "Stripe.net/45.4.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "assemblyVersion": "45.4.0.0",
+            "fileVersion": "45.4.0.0"
+          }
+        }
+      },
       "System.Buffers/4.5.1": {},
       "System.CodeDom/5.0.0": {
         "runtime": {
@@ -2294,7 +2307,8 @@
       },
       "CharityPlatform.Domain/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
+          "Stripe.net": "45.4.0"
         },
         "runtime": {
           "CharityPlatform.Domain.dll": {}
@@ -2304,7 +2318,8 @@
         "dependencies": {
           "CharityPlatform.Domain": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
+          "Stripe.net": "45.4.0"
         },
         "runtime": {
           "CharityPlatform.Repository.dll": {}
@@ -2313,7 +2328,8 @@
       "CharityPlatform.Service/1.0.0": {
         "dependencies": {
           "CharityPlatform.Domain": "1.0.0",
-          "CharityPlatform.Repository": "1.0.0"
+          "CharityPlatform.Repository": "1.0.0",
+          "Stripe.net": "45.4.0"
         },
         "runtime": {
           "CharityPlatform.Service.dll": {}
@@ -3355,6 +3371,13 @@
       "sha512": "sha512-PQ2Oq3yepLY4P7ll145P3xtx2bX8xF4PzaKPRpw9jZlKvfe4LE/saAV82inND9usn1XRpmxXk7Lal3MTI+6CNg==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.6",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512"
+    },
+    "Stripe.net/45.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KybqG8DAGw67jGyYcZqEKDT50P9mPh5lbA2ClFu768A79gKmnXc2fwqHW6Ik5x4nvxxF5d82EHBZnPHZTWFuFw==",
+      "path": "stripe.net/45.4.0",
+      "hashPath": "stripe.net.45.4.0.nupkg.sha512"
     },
     "System.Buffers/4.5.1": {
       "type": "package",

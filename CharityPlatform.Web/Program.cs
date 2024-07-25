@@ -1,3 +1,4 @@
+using CharityPlatform.Domain.Domain;
 using CharityPlatform.Domain.Identity;
 using CharityPlatform.Repository;
 using CharityPlatform.Repository.Implementation;
@@ -25,6 +26,8 @@ builder.Services.AddScoped(typeof(IDonatorRepository), typeof(DonatorRepository)
 builder.Services.AddTransient<ICharityOrganizationService, CharityOrganizationService>();
 builder.Services.AddTransient<ICampaignService, CampaignService>();
 builder.Services.AddTransient<IDonationService, DonationService>();
+
+builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 
 var app = builder.Build();
 

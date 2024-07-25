@@ -48,6 +48,10 @@
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[45.4.0, )"
             }
           },
           "imports": [
@@ -122,6 +126,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.4, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[45.4.0, )"
             }
           },
           "imports": [
@@ -191,6 +199,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[45.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -295,6 +309,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[45.4.0, )"
             }
           },
           "imports": [

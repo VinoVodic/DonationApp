@@ -1,0 +1,41 @@
+﻿@using Microsoft.Extensions.Options
+@model CharityPlatform.Domain.Domain.Donation
+@inject IOptions<StripeSettings> Stripe
+
+@{
+    ViewData["Title"] = "Add Donation";
+}
+
+<h1>Create</h1>
+
+<h4>Donation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <form asp-controller="Donations" asp-action="PayDonation" method="post">
+            <input type="hidden" name="donationId" value="@Model.Id" />
+            <article>
+                <script src="https://checkout.stripe.com/checkout.js"
+                        class="stripe-button"
+                        data-key="@Stripe.Value.PublishableKey"
+                        data-locale="auto"
+                        data-description="Donations Application Payment"
+                        data-amount="@(Model.Amount)"
+                        data-label="Pay $@Model.Amount">
+                </script>
+            </article>
+        </form>
+
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
