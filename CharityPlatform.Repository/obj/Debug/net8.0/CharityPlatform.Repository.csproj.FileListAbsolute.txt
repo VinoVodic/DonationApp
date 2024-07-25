@@ -13,3 +13,19 @@ D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityP
 D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\refint\CharityPlatform.Repository.dll
 D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.pdb
 D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Repository\obj\Debug\net8.0\ref\CharityPlatform.Repository.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Repository.deps.json
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Repository.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Repository.pdb
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Domain.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\bin\Debug\net8.0\CharityPlatform.Domain.pdb
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.csproj.AssemblyReference.cache
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.AssemblyInfoInputs.cache
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.AssemblyInfo.cs
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.sourcelink.json
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityP.C9ED6AF3.Up2Date
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\refint\CharityPlatform.Repository.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\CharityPlatform.Repository.pdb
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Repository\obj\Debug\net8.0\ref\CharityPlatform.Repository.dll

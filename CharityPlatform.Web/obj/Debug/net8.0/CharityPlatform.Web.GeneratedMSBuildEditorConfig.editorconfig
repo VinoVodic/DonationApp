@@ -17,123 +17,123 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CharityPlatform.Web
 build_property.RootNamespace = CharityPlatform.Web
-build_property.ProjectDir = D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Web\
+build_property.ProjectDir = C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Web
+build_property.MSBuildProjectDirectory = C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Campaigns/Create.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Campaigns/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Campaigns/Delete.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Campaigns/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Campaigns/Details.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Campaigns/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Campaigns/Edit.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Campaigns/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Campaigns/Index.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Campaigns/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/CharityOrganizations/Create.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/CharityOrganizations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcml0eU9yZ2FuaXphdGlvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/CharityOrganizations/Delete.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/CharityOrganizations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcml0eU9yZ2FuaXphdGlvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/CharityOrganizations/Details.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/CharityOrganizations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcml0eU9yZ2FuaXphdGlvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/CharityOrganizations/Edit.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/CharityOrganizations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcml0eU9yZ2FuaXphdGlvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/CharityOrganizations/Index.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/CharityOrganizations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcml0eU9yZ2FuaXphdGlvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Donations/Create.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Donations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Donations/Delete.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Donations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Donations/Details.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Donations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Donations/Edit.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Donations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Donations/Index.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Donations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uYXRpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Home/Index.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Home/Privacy.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Shared/Error.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/_ViewImports.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/_ViewStart.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Materijali/Integrirani Sistemi/ProektCharity/CharityDonationPlatform/CharityPlatform.Web/Views/Shared/_Layout.cshtml]
+[C:/Users/Nikola/Data/FINKI/PROEKTI/IS/DonationApp/CharityPlatform.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ijiuvx7sr1

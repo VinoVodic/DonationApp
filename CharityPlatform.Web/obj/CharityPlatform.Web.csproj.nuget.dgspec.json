@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\CharityPlatform.Web.csproj": {}
+    "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Web\\CharityPlatform.Web.csproj": {}
   },
   "projects": {
-    "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
+    "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj",
         "projectName": "CharityPlatform.Domain",
-        "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj",
-        "packagesPath": "C:\\Users\\38975\\.nuget\\packages\\",
-        "outputPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\38975\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,21 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj": {
+    "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj",
         "projectName": "CharityPlatform.Repository",
-        "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj",
-        "packagesPath": "C:\\Users\\38975\\.nuget\\packages\\",
-        "outputPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\obj\\",
+        "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj",
+        "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\38975\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
-                "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj"
+              "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj"
               }
             }
           }
@@ -140,21 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Service\\CharityPlatform.Service.csproj": {
+    "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Service\\CharityPlatform.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Service\\CharityPlatform.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Service\\CharityPlatform.Service.csproj",
         "projectName": "CharityPlatform.Service",
-        "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Service\\CharityPlatform.Service.csproj",
-        "packagesPath": "C:\\Users\\38975\\.nuget\\packages\\",
-        "outputPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Service\\obj\\",
+        "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Service\\CharityPlatform.Service.csproj",
+        "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\38975\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,11 +168,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
-                "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj"
+              "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj"
               },
-              "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj": {
-                "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj"
+              "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj": {
+                "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj"
               }
             }
           }
@@ -207,21 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\CharityPlatform.Web.csproj": {
+    "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Web\\CharityPlatform.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\CharityPlatform.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Web\\CharityPlatform.Web.csproj",
         "projectName": "CharityPlatform.Web",
-        "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\CharityPlatform.Web.csproj",
-        "packagesPath": "C:\\Users\\38975\\.nuget\\packages\\",
-        "outputPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Web\\obj\\",
+        "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Web\\CharityPlatform.Web.csproj",
+        "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\38975\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,14 +235,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
-                "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj"
+              "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj": {
+                "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Domain\\CharityPlatform.Domain.csproj"
               },
-              "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj": {
-                "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj"
+              "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj": {
+                "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Repository\\CharityPlatform.Repository.csproj"
               },
-              "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Service\\CharityPlatform.Service.csproj": {
-                "projectPath": "D:\\Materijali\\Integrirani Sistemi\\ProektCharity\\CharityDonationPlatform\\CharityPlatform.Service\\CharityPlatform.Service.csproj"
+              "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Service\\CharityPlatform.Service.csproj": {
+                "projectPath": "C:\\Users\\Nikola\\Data\\FINKI\\PROEKTI\\IS\\DonationApp\\CharityPlatform.Service\\CharityPlatform.Service.csproj"
               }
             }
           }
@@ -262,6 +262,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[35.0.1817, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.4, )"
@@ -312,7 +316,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

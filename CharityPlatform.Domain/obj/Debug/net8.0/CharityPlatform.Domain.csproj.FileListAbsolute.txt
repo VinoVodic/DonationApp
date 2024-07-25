@@ -10,3 +10,16 @@ D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityP
 D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Domain\obj\Debug\net8.0\refint\CharityPlatform.Domain.dll
 D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.pdb
 D:\Materijali\Integrirani Sistemi\ProektCharity\CharityDonationPlatform\CharityPlatform.Domain\obj\Debug\net8.0\ref\CharityPlatform.Domain.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\bin\Debug\net8.0\CharityPlatform.Domain.deps.json
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\bin\Debug\net8.0\CharityPlatform.Domain.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\bin\Debug\net8.0\CharityPlatform.Domain.pdb
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.csproj.AssemblyReference.cache
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.AssemblyInfo.cs
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.sourcelink.json
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\refint\CharityPlatform.Domain.dll
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\CharityPlatform.Domain.pdb
+C:\Users\Nikola\Data\FINKI\PROEKTI\IS\DonationApp\CharityPlatform.Domain\obj\Debug\net8.0\ref\CharityPlatform.Domain.dll

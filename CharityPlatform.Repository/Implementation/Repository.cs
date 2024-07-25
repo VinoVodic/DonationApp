@@ -57,6 +57,7 @@ namespace CharityPlatform.Repository.Implementation
                 return entities
                     .Include("CharityOrganization")
                     .Include("Donations")
+                    .Include("Donations.Donator")
                     .First(s => s.Id == id);
             }
             else if (typeof(T).IsAssignableFrom(typeof(Donation)))
