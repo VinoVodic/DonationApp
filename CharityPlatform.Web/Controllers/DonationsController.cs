@@ -75,7 +75,6 @@ namespace CharityPlatform.Web.Controllers {
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        //TODO dali treba donator i donatorID
         public IActionResult Edit(Guid id, [Bind("Id,Amount,CampaignId,Campaign,DonatorId,Donator")] Donation donation) {
             if (id != donation.Id) {
                 return NotFound();

@@ -20,5 +20,6 @@ namespace CharityPlatform.Repository
         public virtual DbSet<CharityOrganization> CharityOrganizations { get; set; }
         public virtual DbSet<Campaign> Campaigns { get; set; }
         public virtual DbSet<Donation> Donations { get; set; }
+        public virtual DbSet<Book> Books { get; set; }
     }
 }

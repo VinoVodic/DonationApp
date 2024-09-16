@@ -117,7 +117,7 @@ namespace CharityPlatform.Web.Controllers {
 
             document.Content.Replace("{{Title}}", campaign.Title);
             document.Content.Replace("{{Description}}", campaign.Description);
-            document.Content.Replace("{{MoneyRaised}}", campaign.FullName.ToString());
+            document.Content.Replace("{{MoneyRaised}}", campaign.Amount.ToString());
             document.Content.Replace("{{StartDate}}", campaign.StartDate.ToString());
             document.Content.Replace("{{EndDate}}", campaign.EndDate.ToString());
             document.Content.Replace("{{Organization}}", campaign.CharityOrganization.Name);

@@ -8,6 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\Invoice.docx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Invoice.docx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="GemBox.Document" Version="35.0.1817" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.7" />

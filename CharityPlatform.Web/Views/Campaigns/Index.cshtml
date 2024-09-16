@@ -6,10 +6,6 @@
 
 <h1>Index</h1>
 
-@* TODO: dali da se dodava i od tuka
-    <p>
-    <a asp-action="Create">Create New</a>
-</p> *@
 <table class="table">
     <thead>
         <tr>
@@ -20,7 +16,7 @@
                 @Html.DisplayNameFor(model => model.Description)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.FullName)
+                @Html.DisplayNameFor(model => model.Amount)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.StartDate)
@@ -44,7 +40,7 @@
                     @Html.DisplayFor(modelItem => item.Description)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.FullName)
+                    @Html.DisplayFor(modelItem => item.Amount)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.StartDate)

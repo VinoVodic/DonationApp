@@ -26,6 +26,7 @@ builder.Services.AddScoped(typeof(IDonatorRepository), typeof(DonatorRepository)
 builder.Services.AddTransient<ICharityOrganizationService, CharityOrganizationService>();
 builder.Services.AddTransient<ICampaignService, CampaignService>();
 builder.Services.AddTransient<IDonationService, DonationService>();
+builder.Services.AddTransient<IBookService, BookService>();
 
 builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 

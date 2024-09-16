@@ -1,0 +1,41 @@
+﻿@model List<CharityPlatform.Domain.Domain.Book>
+
+@{
+    ViewData["Title"] = "Books";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Books</h1>
+
+<div class="container">
+    @for(int i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+        if (i % 3 == 0)
+        {
+            @:<div class="row">
+        }
+        <div class="col-4">
+            <div class="card" style="width: 18rem; display: flex; flex-direction: column;">
+                <img class="card-img-top" src="@item.ImageUrl" alt="Card image cap">
+                <div class="card-body" style="flex: 1; overflow: hidden; display: flex; flex-direction: column;">
+                    <h5 class="card-title">@item.Title</h5>
+                    <p class="card-text" style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">@item.Description</p>
+                    <p class="card-text">Genre: @item.Genre</p>
+                    <p class="card-text">Rating: @item.Rating</p>
+                    <p>Price: $@item.Price</p>
+                    <h6>Discounted Price: $@item.DiscountedPrice</h6>
+                </div>
+                <div class="card-footer">
+                    <h6>Author: @item.AuthorName</h6>
+                    <h6>Publisher: @item.PublisherName</h6>
+                </div>
+            </div>
+        </div>
+
+        if (i % 3 == 2)
+        {
+            @:</div>
+        }
+    }
+</div>

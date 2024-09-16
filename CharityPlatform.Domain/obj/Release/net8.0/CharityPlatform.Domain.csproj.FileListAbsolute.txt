@@ -1,0 +1,13 @@
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\bin\Release\net8.0\CharityPlatform.Domain.deps.json
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\bin\Release\net8.0\CharityPlatform.Domain.dll
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\bin\Release\net8.0\CharityPlatform.Domain.pdb
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.csproj.AssemblyReference.cache
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.AssemblyInfoInputs.cache
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.AssemblyInfo.cs
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.csproj.CoreCompileInputs.cache
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.sourcelink.json
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.dll
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\refint\CharityPlatform.Domain.dll
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\CharityPlatform.Domain.pdb
+D:\Fakultet\IS Seminarska\CharityPlatform.Domain\obj\Release\net8.0\ref\CharityPlatform.Domain.dll

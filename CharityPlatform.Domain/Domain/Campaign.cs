@@ -17,7 +17,7 @@ namespace CharityPlatform.Domain.Domain
         public CharityOrganization? CharityOrganization { get; set; }
         public virtual ICollection<Donation>? Donations { get; set; }
 
-        public double FullName
+        public double Amount
         {
             get
             {
